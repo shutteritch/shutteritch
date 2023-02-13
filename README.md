@@ -2,7 +2,7 @@
 
 ## 👥 User Story:
 
-As a wise but ambitious member of my organisation I want to learn as much as I need to about Iain Weir before making contact via my preferred communication method so that I can take credit for the benefits that he will bring to my team when we recruit his skills.
+As a wise and enterprising member of my organisation I want to learn as much as I need to about Iain Weir before making contact via my preferred communication method so that I can take credit for the benefits that he will bring to our team when we recruit his skills.
 
 ## 🤝 Acceptance Criteria
 
