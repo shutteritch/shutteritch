@@ -1,7 +1,11 @@
-# Iain Weir
+# Iain Weir Github Profile
 
-Learning my lessons, day by day.
+## User Story:
 
-Will come back and post more things here soon but for now why not have a look at [My Linkedin](https://www.linkedin.com/in/ifweir/) 
+As a wise but ambitious member of my organisation I want to learn as much as I need to about Iain Weir before making contact via my preferred communication method so that I can take credit for the benefits that he will bring to my team when we recruit his skills.
 
-(if you *really* need to see some code, why not check out the [task manager project](https://github.com/shutteritch/finalCapstone/blob/main/task_manager.py) I completed at the end of a series of basic python tutorials - I'm actually quite proud of the documentation 🤓)
+## Acceptance Criteria
+
+- Given that I may not know anything about Iain Weir, I need to be told that he is an experienced product manager, data & business analyst; adept at working with Agile processes and has a passion for seeking out new perspectives and thinking creatively. When I know this I can then choose whether or not to learn more.
+- Given that I want to learn more about Iain Weir and I acknowledge that GitHub isn't the place for a full employment history I need to be presented with a link to his <a href="[placeholder.com](https://www.linkedin.com/in/ifweir/)" target="_blank">LinkedIn Profile</a> that when I click will then open LinkedIn in a new tab so that I can come back to his GitHub profile afterwards.
+- Given that I am still here I want to learn a bit more about Iain's coding ability which is probably best described as intermediate level with python, html, css with Iain having built and deployed various websites over the years as well as recently undertaking a data science bootcamp which focused heavily on python and the pydata stack (pandas, matplotlib, seaborn, sklearn). When I click on repositories I will then be able to see some examples of this.
