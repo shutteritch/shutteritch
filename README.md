@@ -1,10 +1,10 @@
 # Iain Weir Github Profile
 
-## User Story:
+## 👥 User Story:
 
 As a wise but ambitious member of my organisation I want to learn as much as I need to about Iain Weir before making contact via my preferred communication method so that I can take credit for the benefits that he will bring to my team when we recruit his skills.
 
-## Acceptance Criteria
+## 🤝 Acceptance Criteria
 
 - Given that I may not know anything about Iain Weir, I need to be told that he is an experienced product manager, data & business analyst; adept at working with Agile processes and has a passion for seeking out new perspectives and thinking creatively. When I know this I can then choose whether or not to learn more.
 - Given that I want to learn more about Iain Weir and I acknowledge that GitHub isn't the place for a full employment history I need to be presented with a link to his <a href="https://www.linkedin.com/in/ifweir/" target="_blank">LinkedIn Profile</a> that when I click will then open Iain Weir's profile on LinkedIn where I can connect with him if I so choose.
